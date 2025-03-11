@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate Data Enthusiast with a keen interest in e
 |-------------|------------|------------|------|
 | Home Loan Approval Prediction | Analyzed and Designed a predective model using applicant personal and Financial Data | Python, VS Code, Juypter | [View Project](https://github.com/Richaa06/Projects/blob/main/home%20loan%20%20approval.ipynb) |
 | British Airline Analysis | Conducted a comprehensive Tableau analysis of airway performence review | Tableau, Airline Dataset | [View Project](https://github.com/Richaa06/British-Airline-Analysis) |
-| Superstore Analysis | Identified trends and patterns in product performance | Tableau, Superstore Dataset| [View Project](#) |
+| Superstore Analysis | Identified trends and patterns in product performance | Tableau, Superstore Dataset| [View Project](https://public.tableau.com/app/profile/megha.singh4847/viz/Book1_17183005785120/salesdashboard?publish=yes) |
 
 
 
