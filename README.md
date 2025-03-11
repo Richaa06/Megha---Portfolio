@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a passionate Data Enthusiast with a keen interest in e
 | Project Name | Description | Tech Stack | Link |
 |-------------|------------|------------|------|
 | Home Loan Approval Prediction | Analyzed and Designed a predective model using applicant personal and Financial Data | Python, VS Code, Juypter | [View Project](#) |
-| British Airline Analysis | Conducted a comprehensive Tableau analysis of airway performence review | Tableau, Airline Dataset | [View Project](#) |
+| British Airline Analysis | Conducted a comprehensive Tableau analysis of airway performence review | Tableau, Airline Dataset | [View Project](https://github.com/Richaa06/British-Airline-Analysis) |
 | Airline Performance Dashboard | Interactive dashboard for airline KPIs | Tableau | [View Project](#) |
 
 
